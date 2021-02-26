@@ -85,7 +85,7 @@ qsub script_fast_plast.sh
 
 #### Annotate and select correct orientation using chlorobox
 
-Annotated maunually using clorobox 
+Annotated manually using chlorobox 
 https://chlorobox.mpimp-golm.mpg.de/geseq.html
 
 ```
@@ -98,6 +98,6 @@ cp /data/scratch/mpx469/assemble_bedadeti_plastome/novoplasty/Option_* .
 
 # HF677508.1.gb downloaded from https://www.ncbi.nlm.nih.gov/nuccore/HF677508
 
-Manual checked oreitation
-Option 1 is in the correct orentation with respect to SSC of HF677508.1.gb
+Manual checked orientation
+Option 1 is in the correct orientation with respect to SSC of HF677508.1.gb
 ```
